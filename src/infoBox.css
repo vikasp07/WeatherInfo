@@ -1,0 +1,17 @@
+.InfoBox {
+  margin: auto;
+  margin-bottom: 2rem;
+  width: fit-content;
+}
+
+.cardContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.linked {
+  padding: 20px;
+}
+.github {
+  padding: 20px;
+}

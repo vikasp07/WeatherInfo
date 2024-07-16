@@ -1,0 +1,14 @@
+.SearchBox{
+    text-align: center;
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: center;
+    
+}
+.button{
+    background-color: black;
+}
+label{
+    text-align: start;
+    font-size: large;
+}
