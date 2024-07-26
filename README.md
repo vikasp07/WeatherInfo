@@ -1,11 +1,11 @@
 # WeatherInfo
 
-![WeatherInfo](./public/icon/Screenshot%20-%20wanderlust.png)
+![WeatherInfo](./public/weatherInfo.png)
 
 WeatherInfo is a app .
 ## Live Project
 
-Check out the live project: [Wander_Lust Live](https://wander-lust-6cpq.onrender.com)
+Check out the live project: [Wander_Lust Live](https://weather-info-10si.onrender.com/)
 
 ## Technologies Used
 
