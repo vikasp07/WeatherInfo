@@ -9,53 +9,46 @@ Check out the live project: [Wander_Lust Live](https://weather-info-10si.onrende
 
 ## Technologies Used
 
-- **Node.js**
-- **Express.js**
-- **MongoDB**
-- **React.js**
-- **Multer** for image uploads
-- **Cloudinary** for image storage
-- **Passport.js** for authentication
-- **Bootstrap** for a sleek and responsive design
-- **Error handling** for a seamless user experience
+- **React.js**: For building the interactive user interface.
+- **Material-UI**: To create a modern and responsive design.
+- **OpenWeatherMap API**: To fetch and display weather data.
+- **Vite**: For a fast and efficient development build tool.
 - Other awesome libraries and tools!
-
+- 
 ## Key Features
 
-- **Listings:** Create, edit, and delete your travel listings.
-- **Reviews:** Leave reviews for your favorite destinations.
-- **Search and Filter:** Easily find listings based on your preferences.
-- **User Authentication:** Secure sign-up, login, and logout functionality.
+- **City Search**: Search for weather information by entering the name of a city.
+- **Weather Details**: Display current temperature, minimum and maximum temperatures, humidity, and weather descriptions.
+- **Responsive Design**: Enjoy a sleek and adaptive interface across different devices.
 
 ## Getting Started
 
-To run this project locally, follow these steps:
+To run Weather App locally, follow these steps:
 
-1. Clone the repository:
+1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/your-username/Wander_lust.git
+    git clone https://github.com/vikasp07/WeatherInfo.git
+    cd react-weather
     ```
 
-2. Install dependencies:
+2. **Install Dependencies**:
+
+    Using npm:
 
     ```bash
-    cd WeatherInfo
     npm install
     ```
 
-3. Configure environment variables:
+4. **Start the Development Server**:
 
-    Create a `.env` file in the root directory.
-    Add your MongoDB connection string, Cloudinary credentials, and other necessary variables.
-
-4. Run the application:
+    Using npm:
 
     ```bash
-    npm start
+    npm run dev
     ```
+    Open [http://localhost:5173](http://localhost:5173) in your browser to view the application locally.
 
-    Visit [http://localhost:8080](http://localhost:8080) in your browser to explore WeatherInfo locally.
 
 ## Contribution
 
