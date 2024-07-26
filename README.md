@@ -5,7 +5,7 @@
 WeatherInfo is a app .
 ## Live Project
 
-Check out the live project: [Wander_Lust Live](https://weather-info-10si.onrender.com/)
+Check out the live project: [WeatherInfo Live](https://weather-info-10si.onrender.com/)
 
 ## Technologies Used
 
